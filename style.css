@@ -1,0 +1,43 @@
+body
+{
+    text-align: center;
+   
+}
+.container{
+  background-color: mediumaquamarine;  
+}
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+#contact{
+    background-color: firebrick;
+}
+#contact1 a{
+    color: white;
+    text-shadow: none;
+}
+#contact1 h3{
+    display: inline;
+}
+h1{
+    font-size: 40px;
+    font-weight: 300;
+}
